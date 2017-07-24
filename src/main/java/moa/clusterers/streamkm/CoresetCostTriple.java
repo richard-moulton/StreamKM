@@ -1,5 +1,14 @@
 package moa.clusterers.streamkm;
 
+/**
+ * 
+ * CoresetCostTriple is a wrapper that allows the lloydPlusPlus method in StreamKM to return the coresetCentres,
+ * radii of the associated clusters and the cost associated with the coreset.
+ * 
+ * @author Richard Hugh Moulton
+ *
+ */
+
 public class CoresetCostTriple
 {
 	private Point[] coresetCentres;

@@ -12,6 +12,8 @@ import com.yahoo.labs.samoa.instances.Instance;
  * @author Marcel R. Ackermann, Christiane Lammersen, Marcus Maertens, Christoph Raupach, 
 Christian Sohler, Kamil Swierkot
 
+Modified by Richard Hugh Moulton (24 Jul 2017)
+
 Citation: Marcel R. Ackermann, Christiane Lammersen, Marcus Märtens,
 Christoph Raupach, Christian Sohler, Kamil Swierkot: StreamKM++: A
 Clustering Algorithms for Data Streams. ALENEX 2010: 173-187
