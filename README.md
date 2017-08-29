@@ -1,5 +1,5 @@
 # StreamKM
-Modifications to the StreamKM algorithm implemented in MOA 16.04.
+Modifications to MOA's implementation of the StreamKM algorithm. Now included as part of the MOA 17.06 release.
 
 The StreamKM++ algorithm is described by Ackermann et al. in their paper "StreamKM++: A Clustering Algorithm for Data Streams" [1].
 
